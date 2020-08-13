@@ -27,3 +27,22 @@ now we're going to want to extract the ember power and store it somewhere. for s
 place a receptor on a cell and an emitter on the top part of the activator. shift right click the receptor with a tinker's hammer to store its location, and right click the emitter to set it to the receptor. now give the emitter a redstone signal to start the transfer.<br>
 ![ember power valid setup](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/emberpower.png)
 > shiny stuff flying through the air
+
+3. with ember power you can now use the **melter** and the **stamper,** for starters, in order to 2x any ore in the modpack.<br>
+place the melter down, give it power in the bottom part, input ore or ingots into the top part, and extract the molten metal through a fluid extractor and fluid pipes.<br>
+input the molten metal into the **stamp base**, above which there is an empty space and on top of that a **stamper.**<br>
+supply the stamper with power and a stamp (bar stamp, plate stamp are the most useful), and the item will pop out.<br>
+use a bin to automatically collect the item. no you can't put a drawer/chest, doesn't work. the bin only holds one stack of one item.<br>
+![melter and stamper basic setup](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/mixerstamper.png)
+> the glass block is there to signify one airspace between the base and the stamper. note that levers can be placed *on* extractors, and that extractors need redstone power to work.
+> note that the hammer recipe for plates costs TWICE as much as using the stamper recipe. ***use the plate stamp or ill kiss you very hard on the lips***
+
+this setup will multiply ore, but to progress in the mod you need to add another machine into the setup:
+![mixer centrifuge](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/mixercentrifuge.png)
+the **mixer centrifuge** has 4 internal tanks on each side of the bottom part. input molten metals to different tanks to create an alloy which will be output through the top part.
+![mixer centrifuge from above](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/mcbirdseye.png)
+> basically the same as melter into stamper, just has another stop xd
+
+4. now that we can make alloys, we want to make ***dawnstone.*** the alloy recipe is in JEI, but it's just match copper to gold. dawnstone is basically embers' thaumium or alchemical brass or manasteel.<br>
+make some dawnstone, and with it craft at least 2 **alchemy pedestals,** an **exchange tablet,** a **beam cannon,** and a **cinder plinth.**<br>
+# it's alchemy time baby
