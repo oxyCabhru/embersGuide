@@ -13,7 +13,7 @@ before we use ash piles, we need to understand the process of embers' alchemy:<b
 ![alchemy setup](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/alchemysetup.png
 > basic alchemy setup, just a suggestion on how things should be laid out. pedestals can go anywhere, just make sure they're somewhat close to the tablet. idk the range
 
-in JEI, alchemy recipes always have aspectus requirements:
+in JEI, alchemy recipes always have aspectus requirements:<br>
 ![glimmer crystal recipe example](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/glimmercrystalrecipe.png)<br>
 the aspectus listed here is dawnstone, so we're going to place a dawnstone aspectus on the pedestal. the number means how many **ash piles** you need to put into the pedestal with the aspectus.<br>
 THIS IS A RANGE! but to succeed the craft there is only one value that works. this does mean you need to experiment.<br>
