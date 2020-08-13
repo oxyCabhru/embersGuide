@@ -16,6 +16,7 @@ the only interactable face on the bore is the middle one, so we're going to EXTE
 for that i'll use a simple hopper to input the fuel, and an item extractor to get the ember out into a chest:
 ![ember bore valid setup](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/emberborevalidsetup.png)
 > i used storage drawers to simplify getting coal in and getting ember out through one block, of course you can just use two different chests.<br>note that the item extractor requires a redstone signal to work. ***when the bore makes a lot of noise it means it's working lol***<br>
+> also, use a hammer to disconnect any pipe from any inventory or adjacent pipes (like the extractor to the ember shard drawer)
 
 2. now that you have ember, you need to turn the ember crystal and shards (grit doesn't work) into ember power. for that, you need the **ember activator.**<br>
 input ember items into the bottom part of the activator, after a bit you'll see shiny stuff in the top part of the activator. that would be sweet, sweet ember power.<br>
