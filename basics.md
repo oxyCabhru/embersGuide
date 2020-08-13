@@ -6,6 +6,7 @@
 - and ore multiplication :)
 # fine i'm gonna do it how do i start
 craft the Ancient Codex (will be your *very vague and* general guidebook) and click the first tab (starts at the top, rotates clockwise). <br> now right click the nodes to mark them as done and unlock more content! easy research lol
+> OH UH i forgot use a tinker's lens to know what part of what machine can accept. very helpful
 
 1. the first set of things you're gonna want to make is a tinker's hammer, an ember bore, another mechanical core, some item pipes and an item extractor.
 the ember bore is a 3x3 multiblock (only needs one craft, it unfolds when you place it), but it only needs to touch a single bedrock block. <br>
