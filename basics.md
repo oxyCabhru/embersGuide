@@ -38,8 +38,8 @@ use a bin to automatically collect the item. no you can't put a drawer/chest, do
 > note that the hammer recipe for plates costs TWICE as much as using the stamper recipe. ***use the plate stamp or ill kiss you very hard on the lips***
 
 this setup will multiply ore, but to progress in the mod you need to add another machine into the setup:
-![mixer centrifuge](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/mixercentrifuge.png)
-the **mixer centrifuge** has 4 internal tanks on each side of the bottom part. input molten metals to different tanks to create an alloy which will be output through the top part.
+![mixer centrifuge](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/mixercentrifuge.png)<br>
+the **mixer centrifuge** has 4 internal tanks on each side of the bottom part. input molten metals to different tanks to create an alloy which will be output through the top part.<br>
 ![mixer centrifuge from above](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/mcbirdseye.png)
 > basically the same as melter into stamper, just has another stop xd
 
