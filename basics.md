@@ -45,4 +45,4 @@ the **mixer centrifuge** has 4 internal tanks on each side of the bottom part. i
 
 4. now that we can make alloys, we want to make ***dawnstone.*** the alloy recipe is in JEI, but it's just match copper to gold. dawnstone is basically embers' thaumium or alchemical brass or manasteel.<br>
 make some dawnstone, and with it craft at least 2 **alchemy pedestals,** an **exchange tablet,** a **beam cannon,** and a **cinder plinth.**<br>
-# it's alchemy time baby
+# [it's alchemy time baby](alchemy.md)
