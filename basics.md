@@ -34,7 +34,7 @@ input the molten metal into the **stamp base**, above which there is an empty sp
 supply the stamper with power and a stamp (bar stamp, plate stamp are the most useful), and the item will pop out.<br>
 use a bin to automatically collect the item. no you can't put a drawer/chest, doesn't work. the bin only holds one stack of one item.<br>
 ![melter and stamper basic setup](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/mixerstamper.png)
-> the glass block is there to signify one airspace between the base and the stamper. note that levers can be placed *on* extractors, and that extractors need redstone power to work.
+> the glass block is there to signify one airspace between the base and the stamper. note that levers can be placed *on* extractors, and that extractors need redstone power to work.<br>
 > note that the hammer recipe for plates costs TWICE as much as using the stamper recipe. ***use the plate stamp or ill kiss you very hard on the lips***
 
 this setup will multiply ore, but to progress in the mod you need to add another machine into the setup:
