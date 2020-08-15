@@ -2,3 +2,4 @@
 uh if you have any questions feel free to dm me on discord: Oxy#4715<br>
 # ![getting started](basics.md)<br>
 # ![alchemy](alchemy.md)<br>
+# ![ember power gen and storage](emberpowergen.md)
