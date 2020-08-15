@@ -27,4 +27,6 @@ i will put 64 ash into one pedestal, since JEI says 64 is the minimum value of t
 the recipe failed, and the item told us what we did wrong: ***dawnstone inaccuracy 1***<br>
 since we put the minimum amount of ashes, it means we need to **add** 1 ash for the recipe to succeed.<br>
 yes this means you need to do every recipe twice, but hey if you write it down somewhere you know the amount without experimenting each time.<br>
-happy alchemy xd
+happy alchemy xd<br>
+
+# ![wait fuck i'm low on ember](emberpowergen.md)
