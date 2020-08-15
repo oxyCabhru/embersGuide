@@ -30,4 +30,13 @@ well there are 3 different methods:<br>
 | 4x | blaze powder | glowstone dust |
 
 if you're using the ignem reactor at max efficiency, be sure to use a **volatile ember conduit.** these are highly dangerous, but they can transfer infinite amounts of ember power. if two packets of ember power collide, these explode. use only in straight lines. as per ember gens, they only connect to ignem reactors.<br>
-![ignem reactor in conjunction with volatile conduit into fully upgraded ember cell](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/ignemreactor%2Bvolatile.png)
+![ignem reactor in conjunction with volatile conduit into fully upgraded ember cell](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/ignemreactor%2Bvolatile.png)<br>
+
+if you want something more subtle for the pressure refinery, or to distribute to machines from the crystal cell, try the **ember ejector and the ember funnel.**<br>
+- ember ejector transfers more ember power than the emitter (400 compared to 40), but emitters can't accept that much power. for that, use the:
+- ember funnel, which has an internal capacity of 2000 so no ember is lost. the funnel pipes the ember power into whichever machine it is faced into. i suggest here the:
+- beam splitter, which can receive ember from every face and can eject on two different faces:<br>
+![beam splitter](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/beamsplitter.png)
+
+full ember ejector, ember funnel, beam splitter setup:<br>
+![full setup](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/embertransferr.png)
