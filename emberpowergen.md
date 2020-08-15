@@ -20,7 +20,7 @@ well there are 3 different methods:<br>
 - pressure refinery, which needs constant water input, to be put on a metal block (any block of metal would work) , and for the metal block to be surrounded by lava in order to operate at full efficiency: (1200 ember power per shard)<br>
 ![pressure refinery full setup](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/pressurerefinery.png)
 
-- ignem reactor, needs two different inputs in addition to ember crystals. put the ignem reactor between the two parts of both a combustion chamber and a catalysis chamber. in full efficiency: (3600 ember power per shard)<br>
+- ignem reactor, needs two different inputs in addition to ember crystals. put the ignem reactor between the two parts of both a combustion chamber and a catalysis chamber. the multipliers will add up and get +1 in the ignem reactor. in full efficiency: (3600 ember power per shard)<br>
 ![ignem reactor full setup](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/ignemreactor.png)<br>
 
 | multiplier | combustion chamber | catalysis chamber |
@@ -28,3 +28,6 @@ well there are 3 different methods:<br>
 | 2x | coal | redstone |
 | 3x | nether brick | gunpowder |
 | 4x | blaze powder | glowstone dust |
+
+if you're using the ignem reactor at max efficiency, be sure to use a **volatile ember conduit.** these are highly dangerous, but they can transfer infinite amounts of ember power. if two packets of ember power collide, these explode. use only in straight lines. as per ember gens, they only connect to ignem reactors.<br>
+![ignem reactor in conjunction with volatile conduit into fully upgraded ember cell](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/ignemreactor%2Bvolatile.png)
