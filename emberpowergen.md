@@ -36,7 +36,8 @@ if you want something more subtle for the pressure refinery, or to distribute to
 - ember ejector transfers more ember power than the emitter (400 compared to 40), but emitters can't accept that much power. for that, use the:
 - ember funnel, which has an internal capacity of 2000 so no ember is lost. the funnel pipes the ember power into whichever machine it is faced into. i suggest here the:
 - beam splitter, which can receive ember from every face and can eject on two different faces:<br>
-![beam splitter](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/beamsplitter.png)
+![beam splitter](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/beamsplitter.png)<br>
+> these output faces act like ember emitters. treat them as such
 
 full ember ejector, ember funnel, beam splitter setup:<br>
 ![full setup](https://raw.githubusercontent.com/oxyCabhru/embersGuide/master/images/embertransferr.png)
